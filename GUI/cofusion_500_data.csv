@@ -1,0 +1,6 @@
+Class,TP,FP,FN,TN
+finance,95,5,0,0
+food,90,10,0,0
+health,79,21,0,0
+sport,87,13,0,0
+travel,82,18,0,0

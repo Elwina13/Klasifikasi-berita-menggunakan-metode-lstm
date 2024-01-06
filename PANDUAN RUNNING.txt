@@ -1,0 +1,8 @@
+sebelum menjalankan setiap program lakukan instalasi 
+package dengan perintah dibawah ini
+ketikkan perintahnya ke terminal pycharm
+
+pip install -r requirement.txt
+
+python version yang digunakan adalah python versi 3.11.3
+
